@@ -16,7 +16,7 @@ Welcome to my coding corner! I'm a passionate developer currently immersed in th
 
 ## 💬 Ask Me About
 
-- JavaScript, React.js, Next.js, Tailwind CSS
+- JavaScript, React.js, Next.js, Tailwind CSS, Typescript
 
 ## 📫 How to Reach Me
 
