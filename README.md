@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abhilash!
 
-Welcome to my coding corner! I'm a passionate developer currently immersed in the world of Next.js projects. As I journey through the realms of web development, I'm also diving deep into the intricacies of Node.js, MongoDB, and Express.
+Welcome to my coding corner! I'm a passionate developer currently immersed in the world of Next.js projects. As I journey through the realms of web development, I'm also diving deep into the intricacies of Node.js, MongoDB,NestJs and Express.
 
 ## 🔭 Currently Working On
 
@@ -8,7 +8,7 @@ Welcome to my coding corner! I'm a passionate developer currently immersed in th
 
 ## 🌱 Currently Learning
 
-- Node.js, MongoDB, Express
+- Node.js, MongoDB, Express, NestJs
 
 ## 👯 Looking to Collaborate On
 
